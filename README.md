@@ -15,7 +15,6 @@ In the field of medical imaging, accurately identifying brain tumors plays a piv
 - [Future Improvements](#future-improvements-)
 - [Contributing](#contributing-)
 - [Authors](#authors-)
-- [License](#license-)
 
 ## Installation Instructions 🛠️
 
